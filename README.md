@@ -5,7 +5,7 @@
 ## Overview
 This project, developed as part of the FreeCodeCamp.org Responsive Web Design course, focuses on creating a balance sheet. The primary emphasis is on implementing accessibility features, utilizing CSS pseudo-selectors, and designing responsive tables for efficient data presentation.
 
-## Features
+## Learning Focus
 - **Accessibility**: Prioritizes accessibility features to ensure the balance sheet content is usable by all users, including those relying on assistive technologies.
 - **CSS Pseudo-Selectors**: Utilizes CSS pseudo-selectors to style specific elements and enhance the design and interactivity.
 - **Responsive Tables**: Implements responsive design principles for tables, ensuring readability and usability on various devices and screen sizes.
